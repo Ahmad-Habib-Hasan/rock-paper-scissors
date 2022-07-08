@@ -225,6 +225,7 @@ button{
         justify-content: center;
         align-items: center;
         text-align: center;
+        transform: translateY(-150px);        
     }
     .icons-div{
         width: 150px;
